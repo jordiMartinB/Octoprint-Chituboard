@@ -31,7 +31,7 @@ class chitu_comm():
 
         self.mac = "0:0:0:0"
                 
-        self.name = "Octoprint"
+        self.name = "TheMachineSpirit"
         self.version = "V1.4.1"
         self.id = "28,00,26,00,0d,50,48,50"
         self.z_step_hight = "0.000625"

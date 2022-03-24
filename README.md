@@ -111,7 +111,7 @@ serial:
   exclusive: false  
   externalHeatupDetection: false  
   firmwareDetection: false  
-  helloCommand: M4002  
+  helloCommand: getstatus  
   ignoreErrorsFromFirmware: true  
   logPositionOnCancel: true  
   maxCommunicationTimeouts:  
